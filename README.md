@@ -4,11 +4,6 @@
 – Developed a React App for IIT Guwahati students, where students can calculate their SPI and CPI.
 – Used React to develop the UI of the application.
 
-The Project is live at [link](https://grade-calculator.onrender.com/).
-
-
-
-
 
 # Getting Started with Create React App
 
